@@ -5,7 +5,7 @@ export default function Home() {
     <div className="flex justify-center items-center h-screen">
       <div className="text-center">
         <h1 className="text-4xl font-bold mb-4">Hello World</h1>
-        <button className="py-3 px-8 bg-blue-800 text-white rounded-lg shadow-lg hover:bg-blue-900 transition-colors">Deploy</button>
+        <button className="py-3 px-8 bg-red-800 text-white rounded-lg shadow-lg hover:bg-red-600 transition-colors">Deploy</button>
       </div>
     </div>
   )
